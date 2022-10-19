@@ -14,11 +14,37 @@
 }
 </script>
 <body>
-    <body style="background-color:rgb(248, 145, 155);"></body>
+    <body style="background-color:rgba(145, 176, 248, 0);"></body>
 <button onclick="unhide()">Show Answer</button>
 <div class="exp">
-    <p class="and"style="color:red;">Yul likes little kids</p>
-    <p class="and"style="color:yellow;">Speicifically kids 4-11</p>
-    <p class="and"style="color:blue;">Occasionally 2-4 year olds</p>
-    <p class="and"style="color:purple;">Maybe adults too idk</p>
+    <p class="and"style="background-color:red;">Yul likes little kids</p>
+    <p class="and"style="background-color:orange;">Speicifically kids 4-11</p>
+    <p class="and"style="background-color:yellow;">Occasionally 2-4 year olds</p>
+    <p class="and"style="background-color:green;">Maybe adults too idk</p>
+    <p class="and"style="background-color:blue;">‎ </p>
+    <p class="and"style="background-color:purple;">‎ </p>
+    <p class="and"style="background-color:red;">‎ </p>
+    <p class="and"style="background-color:orange;">‎ </p>
+    <p class="and"style="background-color:yellow;">‎ </p>
+    <p class="and"style="background-color:green;">‎ </p>
+    <p class="and"style="background-color:blue;">‎ </p>
+    <p class="and"style="background-color:purple;">‎ </p>
+    <p class="and"style="background-color:red;">‎ </p>
+    <p class="and"style="background-color:orange;">‎ </p>
+    <p class="and"style="background-color:yellow;">‎ </p>
+    <p class="and"style="background-color:green;">‎ </p>
+    <p class="and"style="background-color:blue;">‎ </p>
+    <p class="and"style="background-color:purple;">‎ </p>
+    <p class="and"style="background-color:red;">‎ </p>
+    <p class="and"style="background-color:orange;">‎ </p>
+    <p class="and"style="background-color:yellow;">‎ </p>
+    <p class="and"style="background-color:green;">‎ </p>
+    <p class="and"style="background-color:blue;">‎ </p>
+    <p class="and"style="background-color:purple;">‎ </p>
+    <p class="and"style="background-color:red;">‎ </p>
+    <p class="and"style="background-color:orange;">‎ </p>
+    <p class="and"style="background-color:yellow;">‎ </p>
+    <p class="and"style="background-color:green;">‎ </p>
+    <p class="and"style="background-color:blue;">‎ </p>
+    <p class="and"style="background-color:purple;">‎ </p>
 </body>
