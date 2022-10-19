@@ -1,0 +1,24 @@
+<head>
+<style>
+.exp{visibility: hidden;}
+</style>
+</head>
+<h1 style="color:blue;">Scientifically Proven Facts</h1>
+<script>
+    function unhide() {
+    var hid = document.getElementsByClassName("exp");
+    // Emulates jQuery $(element).is(':hidden');
+    if(hid[0].offsetWidth > 0 && hid[0].offsetHeight > 0) {
+        hid[0].style.visibility = "visible";
+    }
+}
+</script>
+<body>
+    <body style="background-color:rgb(248, 145, 155);"></body>
+<button onclick="unhide()">Show Answer</button>
+<div class="exp">
+    <p class="and"style="color:red;">Yul likes little kids</p>
+    <p class="and"style="color:yellow;">Speicifically kids 4-11</p>
+    <p class="and"style="color:blue;">Occasionally 2-4 year olds</p>
+    <p class="and"style="color:purple;">Maybe adults too idk</p>
+</body>
