@@ -1,6 +1,3 @@
-theme: minima
-
-
 <head>
 <style>
 .exp{visibility: hidden;}
